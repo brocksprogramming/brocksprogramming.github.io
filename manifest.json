@@ -1,0 +1,26 @@
+{
+  "name": "Spambot 2048",
+  "short_name": "Spambot",
+  "description": "A runner game where your email address dodges spam — Air Mail, Dead Letter, and Snail Mail your way through the inbox.",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#00e664",
+  "icons": [
+    {
+      "src": "spambot_icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "spambot_icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games"],
+  "screenshots": []
+}
